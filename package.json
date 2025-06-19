@@ -41,7 +41,8 @@
   },
   "dependencies": {
     "cross-spawn": "^7.0.1",
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^4.0.4",
+    "taffydb": "^2.7.3"
   },
   "keywords": [
     "gruntplugin",
